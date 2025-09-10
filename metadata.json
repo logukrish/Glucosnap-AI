@@ -1,0 +1,5 @@
+{
+  "name": "GlucoSnap AI",
+  "description": "An intelligent health companion to track HbA1c and analyze meals from photos using the Gemini API. This web application provides a dashboard for your health metrics, allows logging HbA1c readings with historical charts, and features AI-powered meal analysis from uploaded images.",
+  "requestFramePermissions": []
+}
